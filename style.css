@@ -1,0 +1,17 @@
+h1 {background-color: lavender;
+
+}
+
+.navbar li {
+	display:inline-block;
+	float:right;
+}
+
+@media(min-width: 480px) {
+.siderbar {
+	float:right;
+}
+
+.main {
+	float:left;
+}

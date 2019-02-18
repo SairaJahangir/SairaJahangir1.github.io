@@ -7,11 +7,16 @@ h1 {background-color: red;
 	float:right;
 }
 
-@media(min-width: 480px) {
-.siderbar {
+.sidebar {
 	float:right;
+}
+
+.centerimage {
+	width: 100%;
 }
 
 .main {
 	float:left;
 }
+
+
